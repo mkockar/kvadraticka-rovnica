@@ -1,0 +1,2 @@
+# kvadraticka-rovnica
+# kvadraticka-rovnica
