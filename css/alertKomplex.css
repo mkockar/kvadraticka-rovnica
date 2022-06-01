@@ -1,0 +1,15 @@
+.root{
+    -fx-background-color: #ffCC00;
+    -fx-font-size: 20px;
+    -fx-font-family: arial;
+    -fx-text-fill: #FFCC00;
+    -fx-font-weight:bold;
+}
+
+.alertKomplex:header *.header-panel{
+    -fx-background-color: silver;
+}
+
+.alert:header *.header-panel{
+    -fx-background-color: silver;
+}

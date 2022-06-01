@@ -1,0 +1,34 @@
+.root{
+    -fx-background-color: #FFCC00;
+    -fx-font-size: 20px;
+    -fx-font-family: arial;
+    -fx-font-weight:bold;
+}
+
+.title{
+    -fx-background-color: #FFCC00;    
+    -fx-font-size: 25px;
+    -fx-text-align:center;
+}
+
+.toolbar{
+    -fx-background-color: #FFCC00;
+    -fx-border-top: none;
+}
+
+.btn{
+    -fx-background-color:black;
+    -fx-text-fill: #FFCC00;
+    -fx-background-radius:25;
+    -fx-transition:0.5s;
+}
+
+.btn:hover{
+    -fx-background-color:white;
+    -fx-text-fill: black;
+    -fx-font-weight:bold;
+}
+
+.chart-series-line{
+    -fx-stroke: #FFCC00;
+}
